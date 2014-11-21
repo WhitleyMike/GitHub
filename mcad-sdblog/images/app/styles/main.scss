@@ -1,13 +1,8 @@
 $icon-font-path: "../bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
 
 // bower:scss
-@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
-body {
-  font-family: sans-serif;
-	max-width: 1200px;
-	line-height: 1.4;
-}
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
@@ -15,13 +10,6 @@ body {
     padding: 0.2em 0;
 }
 
-img {
-  max-width: 100%
-}
-
-.sample-image {
-  display: block;
-}
 /* Space out content a bit */
 body {
     padding-top: 20px;
